@@ -1,0 +1,71 @@
+#Seattle Seahawks iframe
+{
+    width: 100%;
+}
+.Seattle Seahawks_1 h3
+{
+    display: inline;
+}
+.Seattle Seahawks_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.NFL_mainDiv{
+    border: 1px solid #000000;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    font-family: calibri;
+    font-size: 56px;
+    color:black;
+}
+.NFL_mainDiv img{
+    width: 100%;
+}
+.NFL_mainDiv hr{
+    width: 230px;
+}
+.NFL_mainDiv h5, .NFL_mainDiv p{
+   margin-left: 20px; 
+    font-family: calibri;
+    font-size: 28px;
+    color: blue;
+}
+#place{
+    text-align: center;
+    color:blue;
+}
+.SSFS_li{
+margin-top: 13px;
+    font-family:calibri;
+}
+.SSFS_li h4{
+border-bottom: 1px solid white;
+    padding: 8px;
+     font-size: 28px;
+    color: blue;
+    font-family:calibri;
+        }
+.SSFS_li img{
+    border-radius: 25px;
+}
+.SSFS_li p{
+    margin-top: 10px;
+    font-size: 28px;
+    color: black;
+    font-family: calibri;
+        
+}
+#head{
+    font-size: 48px;
+}
+#dyk{
+    font-size: 32px;
+    color:red;
+}
+
